@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">E-Medic</string>
+    <!--    MAIN ACTIVITY -->
+    <string name="title"><b>Temukan berbagai solusi \nmedismu</b></string>
+    <string name="subtitle">Belanja obat lebih mudah hanya dari rumah.\n
+        Temukan yang anda inginkan secara mudah dan cepat </string>
+    <string name="rules">Diawasi Oleh:</string>
+    <string name="pesan">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+        \nsed do eiusmod tempor incididunt ut labore
+            \net dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
